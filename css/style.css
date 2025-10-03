@@ -221,3 +221,21 @@ textarea{
     float: left;
     padding: 20px;
 }
+
+/* shopproduct */
+
+.shop_product{
+    width:1200px;
+    height:420px;
+    border:0px solid black;
+    
+}
+.shop_product_card{
+    height: 396px;
+    width: 396px;
+    background-color: antiquewhite;
+    border: #faad76 solid 1px;
+    text-align: center;
+    margin: 10px;
+
+}
